@@ -1,6 +1,6 @@
 # Hi, I'm Akshay 👋
 
-### Software Developer \| Data Analytics & AI Enthusiast
+### Software Developer \ AI Enthusiast
 
 BCA graduate building practical software and data-driven solutions. I
 enjoy turning real-world problems into useful applications through
@@ -122,7 +122,6 @@ and applied AI.
 
 -   **GitHub:** https://github.com/akshaythumbayill-ui/akshaythumbayill-ui
 -   **LinkedIn:** https://www.linkedin.com/in/akshay-t-8a91a1401/
--   **Portfolio:** Add your portfolio URL here
 -   **Email:** akshaythumbayill@gmail.com
 
 ------------------------------------------------------------------------
